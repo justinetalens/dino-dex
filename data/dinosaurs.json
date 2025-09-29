@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Spinosaurus aegyptiacus",
+    "era": "Late Cretaceous",
+    "diet": "Carnivore",
+    "length_m": 15,
+    "height_m": 4.3,
+    "weight_kg": 7000,
+    "start_mya": 99,
+    "end_mya": 93.5,
+    "description": "A semi-aquatic theropod with distinctive sail-like neural spines, Spinosaurus is believed to have hunted both aquatic and terrestrial prey.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Spinosaurus_BW.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Giganotosaurus carolinii",
+    "era": "Late Cretaceous",
+    "diet": "Carnivore",
+    "length_m": 12,
+    "height_m": 4,
+    "weight_kg": 8000,
+    "start_mya": 99.6,
+    "end_mya": 97,
+    "description": "A massive theropod from South America, rivaling Tyrannosaurus rex in size, known for its speed and long, serrated teeth.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Giganotosaurus_BW.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Carcharodontosaurus saharicus",
+    "era": "Late Cretaceous",
+    "diet": "Carnivore",
+    "length_m": 13,
+    "height_m": 4.2,
+    "weight_kg": 6000,
+    "start_mya": 100,
+    "end_mya": 93,
+    "description": "A North African giant theropod with blade-like teeth, earning its name 'shark-toothed lizard'.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Carcharodontosaurus_BW.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Acrocanthosaurus atokensis",
+    "era": "Early Cretaceous",
+    "diet": "Carnivore",
+    "length_m": 11.5,
+    "height_m": 3.8,
+    "weight_kg": 6000,
+    "start_mya": 125,
+    "end_mya": 100,
+    "description": "A large theropod from North America, recognizable by its high neural spines along the back and shoulders.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Acrocanthosaurus_BW.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Tyrannosaurus rex",
+    "era": "Late Cretaceous",
+    "diet": "Carnivore",
+    "length_m": 12.3,
+    "height_m": 4,
+    "weight_kg": 8000,
+    "start_mya": 68,
+    "end_mya": 66,
+    "description": "One of the largest land predators, famed for its massive skull, powerful bite force, and relatively small arms.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Tyrannosaurus_rex_holotype.jpg"
+  }
+]
